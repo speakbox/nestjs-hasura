@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/speakbox/nestjs-hasura/compare/v1.0.0...v1.1.0) (2022-04-01)
+
+
+### Features
+
+* update dependencies ([#1](https://github.com/speakbox/nestjs-hasura/issues/1)) ([fa6ff37](https://github.com/speakbox/nestjs-hasura/commit/fa6ff37b2ffedce15cb0db111c6f44c03fc96f80))
+
 ## 1.0.0 (2022-01-26)
 
 
