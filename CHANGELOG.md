@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/speakbox/nestjs-hasura/compare/v1.1.0...v1.2.0) (2022-04-03)
+
+
+### Features
+
+* add decorator to fetch hasura claims easily ([#2](https://github.com/speakbox/nestjs-hasura/issues/2)) ([e4c162d](https://github.com/speakbox/nestjs-hasura/commit/e4c162db15558999aa750531701b2c42849924e7))
+
 ## [1.1.0](https://github.com/speakbox/nestjs-hasura/compare/v1.0.0...v1.1.0) (2022-04-01)
 
 
