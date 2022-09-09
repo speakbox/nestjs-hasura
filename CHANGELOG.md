@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/speakbox/nestjs-hasura/compare/v2.0.0...v3.0.0) (2022-09-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* node 16 upgrade (#3)
+
+### Features
+
+* node 16 upgrade ([#3](https://github.com/speakbox/nestjs-hasura/issues/3)) ([a940695](https://github.com/speakbox/nestjs-hasura/commit/a9406950c705f3911f3c3029a92d8a56f1212450))
+
 ## [2.0.0](https://github.com/speakbox/nestjs-hasura/compare/v1.2.0...v2.0.0) (2022-09-09)
 
 
