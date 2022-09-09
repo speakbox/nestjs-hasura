@@ -4,6 +4,9 @@
   "description": "NestJS Hasura",
   "author": "Valentin Prugnaud <valentin@speakbox.ca>",
   "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
   "readmeFilename": "README.md",
   "main": "dist/index.js",
   "files": [
