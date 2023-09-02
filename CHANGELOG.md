@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/speakbox/nestjs-hasura/compare/v3.0.0...v3.1.0) (2023-09-02)
+
+
+### Features
+
+* update to node 20 ([cb99ff1](https://github.com/speakbox/nestjs-hasura/commit/cb99ff14345e566b02708d5e74d80206d7c0202a))
+
 ## [3.0.0](https://github.com/speakbox/nestjs-hasura/compare/v2.0.0...v3.0.0) (2022-09-09)
 
 
